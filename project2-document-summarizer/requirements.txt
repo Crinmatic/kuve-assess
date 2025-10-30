@@ -1,0 +1,28 @@
+# Document Summarizer Requirements
+
+# Core ML/NLP
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
+accelerate>=0.20.0  # For efficient model loading
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Document processing
+PyPDF2>=3.0.0
+pypdf>=3.15.0
+python-docx>=0.8.11
+
+# LangChain for orchestration
+langchain>=0.1.0
+langchain-community>=0.0.1
+
+# UI
+streamlit>=1.25.0
+streamlit-chat>=0.1.1
+
+# Utils
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0

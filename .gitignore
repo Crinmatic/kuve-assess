@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files (too large for git)
+*.safetensors
+model.safetensors
+*.bin
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Large model directories
+project3-classifier/model/*.safetensors
+project3-classifier/results/
+
+# Data files (if large)
+*.hdf5
+*.pkl
+*.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# PyTorch
+*.pth.tar
+
+# Transformers cache
+.cache/
+transformers_cache/
+
+# Training outputs
+results/
+outputs/
+checkpoints/

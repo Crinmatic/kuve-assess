@@ -1,0 +1,21 @@
+question,answer,category
+How do I reset my password?,To reset your password: 1) Click 'Forgot Password' on the login page 2) Enter your email address 3) Check your email for a reset link 4) Click the link and create a new password. The link expires in 24 hours.,account
+My account is locked. What should I do?,Your account locks after 5 failed login attempts. Wait 30 minutes for automatic unlock or contact support@company.com with your username to unlock immediately.,account
+How do I update my email address?,Go to Settings > Profile > Contact Information. Click 'Edit' next to your email and enter the new address. You'll receive a verification email to confirm the change.,account
+Can I use the software on multiple devices?,Yes! Your license allows installation on up to 3 devices. Sign in with the same credentials on each device. All data syncs automatically via the cloud.,licensing
+What's the difference between Basic and Pro plans?,Pro includes: unlimited projects (vs 5 in Basic) priority support advanced analytics API access team collaboration features. See our pricing page for full comparison.,pricing
+How do I upgrade my subscription?,Go to Settings > Billing > Subscription. Click 'Upgrade' and select your desired plan. Changes take effect immediately and you'll be charged the prorated difference.,billing
+Is there a mobile app available?,Yes! We have iOS and Android apps. Download from the App Store or Google Play. All features from the web version are available on mobile.,features
+How do I export my data?,Navigate to Settings > Data > Export. Choose your format (CSV JSON or PDF) and click 'Export'. Large exports are emailed to you within a few minutes.,data
+What file formats are supported for upload?,We support: Images (JPG PNG GIF SVG) Documents (PDF DOCX TXT MD) Spreadsheets (XLSX CSV) Videos (MP4 MOV). Maximum file size is 100MB.,features
+How do I share a project with team members?,Open the project click the 'Share' button in the top right. Enter email addresses and set permissions (View Edit or Admin). They'll receive an invitation email.,collaboration
+Can I cancel my subscription anytime?,Yes absolutely. Go to Settings > Billing > Subscription and click 'Cancel'. You'll retain access until the end of your current billing period.,billing
+How do I contact customer support?,Email: support@company.com Live Chat: Available 9am-5pm EST Phone: 1-800-SUPPORT. Premium users get 24/7 priority support.,support
+Is my data secure?,Yes. We use AES-256 encryption for data at rest and TLS 1.3 for data in transit. We're SOC 2 Type II certified and GDPR compliant. Regular security audits are performed.,security
+How do I enable two-factor authentication?,Go to Settings > Security > Two-Factor Authentication. Click 'Enable' and follow the setup wizard. You can use an authenticator app or SMS.,security
+What browsers are supported?,We support the latest versions of Chrome Firefox Safari and Edge. For best performance we recommend Chrome or Firefox.,technical
+Why is the app running slowly?,Common causes: 1) Too many browser tabs open 2) Large files in your project 3) Slow internet connection. Try clearing cache refreshing or using a wired connection.,troubleshooting
+How do I delete my account?,Go to Settings > Account > Delete Account. Enter your password and confirm. Note: This action is permanent and cannot be undone. All data will be deleted.,account
+Can I recover deleted items?,Yes if deleted within the last 30 days. Go to Settings > Trash to view and restore deleted items. Items older than 30 days are permanently removed.,data
+What payment methods do you accept?,We accept Visa MasterCard American Express Discover and PayPal. Enterprise customers can pay via invoice with NET-30 terms.,billing
+Is there an API available?,Yes! API access is included with Pro and Enterprise plans. Documentation is at api.company.com. You'll need to generate an API key in Settings > Developer.,features
